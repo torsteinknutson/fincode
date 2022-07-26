@@ -1,2 +1,2 @@
 # fincode
-various homegrown finance code
+homegrown
